@@ -1,3 +1,4 @@
+#Task 1
 x=input("enter the first number:")
 y=input("enter the second number:")
 x=int(x)
@@ -10,3 +11,8 @@ print('addition:',addition)
 print('subtraction:',subtraction)
 print('multiplication:',multiplication)
 print('division:',division)
+
+#Task2
+a=input("enter your first name:")
+b=input("enter your second name:")
+print("hello, " + a +' '+ b + "!" + " " + "Welcome to the Python program")
